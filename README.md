@@ -6,10 +6,6 @@ Convert OpenDroneMap's images.json image database to GeoJSON point collections.
 
 NodeJS/npm are the only dependencies.
 
-```
-npm install
-```
-
 ## Building
 
 ```bash
